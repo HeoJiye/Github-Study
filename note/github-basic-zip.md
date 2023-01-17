@@ -141,7 +141,9 @@ git config --global user.email  "<github 이메일>"
     ```
     git push origin <브랜치 이름>
     ```
-    - 본인 레포지터리가 최신 버전이 아니면 실패, pull을 먼저 시도
+    - 본인 레포지터리가 최신 버전이 아니면 실패, fetch을 먼저 시도
+
+<br>
 
 - **깃허브 레포지터리의 변경사항 가져오기(pull)**
     - pull: 깃허브 레포지터리로부터 필요한 파일을 다운 + 자동 병합
@@ -178,8 +180,8 @@ git config --global user.email  "<github 이메일>"
         - 충돌 해결하기
             - 해당 파일에서 두 변경 사항이 모두 적혀있음. 직접 충돌 사항 변경하기
             - visual studio 등은 충돌 편집기를 지원함.
+        - 이후 commit 후, push
             
-
 <br>
 <br>
 
