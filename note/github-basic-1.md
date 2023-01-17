@@ -5,6 +5,8 @@
 
 [Git이 뭔지, Fork가 뭔지.. 에 대한 것은 여기에](./github-basic-zip.md)
 
+[기획자/디자이너분들은 여기로 바로](#기획자디자이너-루트)
+
 ## 개발자 루트
 ### 1. git을 다운로드한다.
 [git 설치법](https://shxrecord.tistory.com/115?category=677810)
