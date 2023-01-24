@@ -1,6 +1,6 @@
 # 2️⃣ 깃허브 기초 (2)
 
-깃허브 기조 (2) 단계는 2주에 걸쳐서 진행됩니다.
+깃허브 기초 (2) 단계는 2주에 걸쳐서 진행됩니다.
 
 ## [이전 주차](./github-basic-1.md)에서는 
 - [HeoJiye/Github-Study](https://github.com/HeoJiye/Github-Study) 레포지터리를 본인 계정으로 `fork`한 뒤
